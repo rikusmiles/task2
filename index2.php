@@ -47,7 +47,7 @@
     	  	 </div>
     	  	 <div class="form-group">
     	  	 	<label class="control-label">Don't have an Account?</label>
-    	  	 	<a href="index1.php">Sign Up</a><br>
+    	  	 	<a href="signup.php">Sign Up</a><br>
     	  	 	<a href="">Forgot password?</a>
     	  	 </div>
     	    </form>
